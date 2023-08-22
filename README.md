@@ -1,1 +1,2 @@
 # NLPDisasterTweetsMiniProject
+For this mini-project, we will be creating a model that determines if a person's post on X (formally Twitter) is discussing a disaster. This is relevant for disaster relief organizations and news reporters. We will be employing natural language processing techniques with the help of a recurrent neural network (RNN). We will also compare the results of our RNN against a Long Short-Term Memory (LSTM) model (which is a type of RNN) and a deep neural network (DNN).
